@@ -1,0 +1,10 @@
+F2 — -> Kodunuzu yazdınız ve nerede syntax vb hatalar yaptığını bilmiyorsunuz F2 ile rahatça bu hataya gidersiniz.
+
+CTRL+O — ->Override edebileceğiniz metodları gösterir.
+
+Alt+Enter — ->Kod üzerinde yapabileceğiniz bütün aktivasyonları içerir.
+(Hata yaptıysanız hatayı düzeltmek için öneri sunar. new Arraylist<String>(); Local değişken oluşturur. )
+
+SHIFT + F10 — -> Uygulamayı çalıştırır.
+
+CTRL+ALT+L — ->Kodu optimize eder.
